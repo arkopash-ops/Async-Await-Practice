@@ -5,7 +5,7 @@ Photos are displayed in a responsive grid using **Bootstrap 5**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Written in **TypeScript** with strict type safety
 - Uses **async/await** for API calls
@@ -15,7 +15,7 @@ Photos are displayed in a responsive grid using **Bootstrap 5**.
 
 ---
 
-## 📸 Demo API
+## Demo API
 
 Data is fetched from:
 
